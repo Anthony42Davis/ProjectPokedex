@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project Pokedex</string>
+    <string name="search">Search</string>
+    <string name="Name">Name</string>
+    <string name="Species">Species</string>
+    <string name="Types">Types</string>
+    <string name="Evolutions">Evolutions</string>
+    <string name="search_hint">Search</string>
+    <string name ="help">Pokemon Encyclopedia.Home page is filled with pokemon names from 25
+        games, which tallied up is a total of 778 Pokemon.For viewing of the Pokemon specific data
+        click on their name in the home page. This will direct you to their relevant
+        information.</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:gravity="center"
+              android:orientation="vertical"
+              android:background="@mipmap/colorless"
+              android:weightSum="1">
+    <TextView
+        android:id="@+id/txtHelp"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:text="@string/help"
+        android:layout_weight="0.81"
+        android:textSize="@dimen/abc_text_size_medium_material"/>
+
+</LinearLayout>
